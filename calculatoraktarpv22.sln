@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "calculatoraktarpv22", "calculatoraktarpv22.pyproj", "{FC61BF94-9EF3-44E4-B300-FF1D4EBB620A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC61BF94-9EF3-44E4-B300-FF1D4EBB620A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC61BF94-9EF3-44E4-B300-FF1D4EBB620A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22649CCB-4806-46A6-97B9-DC03B335121B}
+	EndGlobalSection
+EndGlobal
